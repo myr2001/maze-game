@@ -1,2 +1,9 @@
-# maze-game
-Labrynth game's codes, made for educational purposes
+## It's a
+# MAZE GAME!!!
+
+- **Labrynth** game's codes.
+- Made for ***educational purposes***.
+- Code written in VSC with *Algorithmika* extension.
+
+Protected by:
+> __MIT License__ (and a thousand wizards)
